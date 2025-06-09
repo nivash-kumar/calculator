@@ -30,6 +30,7 @@ body{
 }
 input{
     width: 400px;
+    color:var(--fontColor);
     box-sizing: border-box;
     border: none;
     padding: 24px;
